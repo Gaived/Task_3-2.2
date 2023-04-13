@@ -1,0 +1,5 @@
+rootProject.name = 'Task_3-3.2'
+
+include 'db'
+include 'service'
+include 'api'
